@@ -5,7 +5,7 @@
 ![SCREENSHOT 2](http://s16.postimg.org/neh7lh2jp/AW2_2.jpg)
 
 ###DATA DIRI
-- NAMA : M.Gerald Junhakritama
+- NAMA : M.Gerald Junhakristama
 - KELAS : XI RPL 1
 - NO.URUT : 17
 - NIS : 4742/1461.070
